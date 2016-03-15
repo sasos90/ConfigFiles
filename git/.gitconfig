@@ -1,0 +1,30 @@
+[core]
+        editor = vim
+[merge]
+        tool = meld
+[alias]
+        co = checkout
+        ci = commit
+        br = branch
+        pu = push
+        st = status
+        di = diff
+	tree = log --all --graph --decorate=short --color --format=format:'%C(bold blue)%h%C(reset) %C(auto)%d%C(reset)\n         %C(white)[%cr]%C(reset)  %x09%C(white)%an: %s %C(reset)'
+    	logx = log --all --graph --decorate=short --color --format=format:'%C(bold blue)%h%C(reset)+%C(dim white)(%cr)%C(reset)+%C(auto)%d%C(reset)++\n+++       %C(bold white)%an%C(reset)%C(white): %s%C(reset)'
+
+[push]
+        default = current
+[pull]
+        default = current
+[color "branch"]
+        remote = red bold
+[color "diff"]
+        meta = yellow bold
+        frag = magenta bold
+        old = red bold
+[color "status"]
+        changed = yellow bold
+        untracked = yellow bold
+[user]
+	email = MY_EMAIL
+	name = MY_NAME
