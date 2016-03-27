@@ -1,20 +1,20 @@
 {
-	"binary_file_patterns":
-	[
-		"*.scssc", "node_modules/"
-	],
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
-	"font_size": 10,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		120
-	],
-	"shift_tab_unindent": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+    "binary_file_patterns":
+    [
+        "*.scssc", "node_modules/"
+    ],
+    "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+    "font_size": 10,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        120
+    ],
+    "shift_tab_unindent": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "word_wrap": false
 }

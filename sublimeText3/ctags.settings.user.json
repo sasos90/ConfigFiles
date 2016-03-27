@@ -25,7 +25,7 @@
     // Additional options to pass to ctags, i.e.
     // ["--exclude=some/path", "--exclude=some/other/path", ...]
     "opts" : [
-"--exclude=*.js",
+        "--exclude=*.js",
         "--exclude=*.scss",
         "--exclude=*.css",
         "--exclude=*.html",
