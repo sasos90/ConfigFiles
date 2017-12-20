@@ -34,5 +34,29 @@
     "key": "shift+alt+down",
     "command": "-editor.action.copyLinesDownAction",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "workbench.action.gotoSymbol"
+  },
+  {
+      "key": "ctrl+shift+o",
+      "command": "-workbench.action.gotoSymbol"
+  },
+  {
+      "key": "ctrl+t",
+      "command": "workbench.action.files.newUntitledFile"
+  },
+  {
+      "key": "ctrl+n",
+      "command": "-workbench.action.files.newUntitledFile"
+  },
+  {
+      "key": "ctrl+tab",
+      "command": "workbench.action.nextEditor"
+  },
+  {
+      "key": "ctrl+shift+tab",
+      "command": "workbench.action.previousEditor"
   }
 ]
