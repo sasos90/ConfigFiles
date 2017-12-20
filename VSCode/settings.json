@@ -1,0 +1,12 @@
+{
+    "git.enabled": false,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "One Monokai",
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        140
+    ],
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
+}

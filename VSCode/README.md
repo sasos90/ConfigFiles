@@ -1,0 +1,8 @@
+## Theme
+ - One Monokai Official
+
+## Extensions
+
+ - ESLint
+ - One Monokai Theme
+ - vscode-icons
