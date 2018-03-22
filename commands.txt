@@ -1,0 +1,2 @@
+// Convert SSL certificate from P12 to PEM
+openssl pkcs12 -export -in "path.p12" -out "newfile.pem"
