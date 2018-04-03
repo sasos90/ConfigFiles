@@ -7,6 +7,8 @@ Tools
     alias gd='git diff'
     alias gdc='git diff --cached'
     alias gs='git status'
+    alias gpu='git push'
+    alias gpl='git pull'
 
 
 ### Tools (deprecated)
