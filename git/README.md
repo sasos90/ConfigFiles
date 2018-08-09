@@ -9,6 +9,7 @@ Tools
     alias gs='git status'
     alias gpu='git push'
     alias gpl='git pull'
+    alias gplr='git pull --rebase'
 
 
 ### Tools (deprecated)
