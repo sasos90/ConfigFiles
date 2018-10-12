@@ -11,7 +11,6 @@ Tools
     alias gpl='git pull'
     alias gplr='git pull --rebase'
 
-
 ### Tools (deprecated)
 SCM Breeze
 Url: http://madebynathan.com/2011/10/19/git-shortcuts-like-youve-never-seen-before/
