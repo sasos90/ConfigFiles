@@ -8,3 +8,5 @@
  - vscode-icons
  - ES7 React/Redux/GraphQL/React-Native snippets
  - React Jest Snippets
+ - SCSS IntelliSense
+
