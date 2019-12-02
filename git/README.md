@@ -12,6 +12,7 @@ Tools
     alias gplr='git pull --rebase'
     alias gdrp='git stash -u && git stash drop'
     alias gu='git stash -u'
+    alias k='kubectl'
     alias gpop='git stash pop'
     alias gbclean='git branch --merged > /tmp/merged-branches && vim /tmp/merged-branches && xargs git branch -d < /tmp/merged-branches'
     alias gfresh='sh ~/git-fresh-feature.sh'
